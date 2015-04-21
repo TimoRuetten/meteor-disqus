@@ -1,4 +1,4 @@
-# Disqus Wrapper for Meteor
+# Reactive Disqus Template
 
 ![Meteor logo](https://d14jjfgstdxsoz.cloudfront.net/meteor-logo.png)
 

@@ -2,7 +2,7 @@ Package.describe({
   name: 'visudare:disqus',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: 'Disqus wrapper for meteor',
+  summary: 'Reactive Disqus Template. Just adding {{> disqus [options]}} wherever you want.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/Visudare/meteor-disqus.git',
   // By default, Meteor will default to using README.md for documentation.
