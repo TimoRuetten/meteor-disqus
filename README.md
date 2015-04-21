@@ -31,7 +31,12 @@ You can set the following options to the template:
 3. identifier
 4. title
 
+If its **not** set the following fallback options will be set:
 
+1. for **url** `location.href`
+2. for **category_id** none
+3. for **identifier** `location.pathname`
+4. for **title**  `<title>` attribute in `<head>`
 
 
 **Example:**
